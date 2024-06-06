@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yatskovanatoly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yatskovanatoly&theme=transparent&hide_border=true&border_radius=0&hide_current_streak=true&card_width=250)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukalov&layout=compact&theme=transparent&hide_border=true&custom_title=Languages)
